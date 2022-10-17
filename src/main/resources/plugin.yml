@@ -1,0 +1,6 @@
+name: JoinLeavePlugin
+version: '${project.version}'
+main: me.mitasiek.joinleaveplugin.JoinLeavePlugin
+api-version: 1.19
+authors: [ Mitasiek ]
+description: Join and leave messages!
